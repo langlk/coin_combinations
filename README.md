@@ -1,5 +1,17 @@
 # Coin Combinations
 
+#### _Epicodus practice in Ruby, 9/7/17_
+
+#### By _**Kelsey Langlois and and Luciano Oliveira**_
+
+## Description
+
+_Ruby practice: determines smallest number of coins needed to make a number._
+
+## Setup/Installation Requirements
+
+* _Clone this repository._
+
 ## Specifications
 
 * Program returns an error for negative numbers.
@@ -32,3 +44,15 @@
 * If program cannot be evenly made with quarters, dimes, and nickels, program adds on number of pennies needed to make number.
   * Example Input: 53
   * Example Output: 2 quarters 3 pennies
+  
+## Support and contact details
+
+_If you run into any issues or have questions, ideas or concerns, or if you would like to contribute to the code, please contact Kelsey Langlois._
+
+## Technologies Used
+
+_This application was created using Ruby_
+
+### License
+
+Copyright (c) 2017 **_Kelsey Langlois and Luciano Oliveira_**
